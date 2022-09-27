@@ -34,7 +34,7 @@ public class Main {
     
     receta.setIngredientes(ingredientes);
     // Agregar pasos
-    
+    //no agregamos nada
     
     receta.setDificultad(Dificultad.LEGENDARIO);
     
